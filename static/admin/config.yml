@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/munwr/gatsby-netlify-cms-example
+  repo: munwr/gatsby-netlify-cms-example
 
 media_folder: static/assets
 
